@@ -1,0 +1,43 @@
+# Terraform (for future POCs)
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+.terraform/
+.terraform.lock.hcl
+crash.log
+
+# AWS — never commit
+.aws/
+*.pem
+*.cer
+*.key
+
+# Sensitive: AWS account IDs, raw screenshots before sanitization
+*-raw.png
+*-unsanitized.*
+account-id.txt
+credentials.txt
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python (if any helper scripts)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (if any docs tooling)
+node_modules/
+
+# Logs
+*.log
