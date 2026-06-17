@@ -1,6 +1,6 @@
 # AWS DevOps — Hands-on POCs
 
-Hi, I am **Raghvendra Sharma** — a DevOps engineer with 4.9 years of experience at Amdocs (Hyderabad). This repository is my personal lab for AWS, Kubernetes and Terraform.
+Hi, I am **Raghvendra Sharma** — a DevOps engineer with 4.9 years of experience at Amdocs (Pune). This repository is my personal lab for AWS, Kubernetes and Terraform.
 
 ## What you will find here
 
@@ -39,8 +39,8 @@ I do every POC the same way:
 
 ## Connect
 
-- LinkedIn: *(add your LinkedIn URL here before pushing)*
-- Email: *(add your email here before pushing)*
+- LinkedIn: https://www.linkedin.com/in/raghvendra-sharma-0b2063179/
+- Email: raghvp672@gmail.com, raghvdevops@gmail.com
 
 ---
 
